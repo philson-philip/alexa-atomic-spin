@@ -1,5 +1,5 @@
 source 'https://rubygems.org' do
-  ruby '2.3.1'
+  ruby '2.5.1'
 
   gem 'sinatra'
   gem 'rest-client'
